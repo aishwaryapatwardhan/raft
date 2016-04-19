@@ -1,0 +1,44 @@
+
+option java_package = "test.proto";
+message Message
+{
+
+	optional string messageType = 1;
+	optional int32 term = 2;
+	optional int32 lastLogIndex = 3;
+	optional int32 lastLogTerm =4;
+	
+	optional int32 leaderCommit = 5;
+	
+	optional string command = 6;
+	
+	optional Node id = 7;
+	optional Result returned = 8;
+	optional Entry entry = 9;
+	optional int32 sender= 10;
+	optional int32 receiver = 11;
+	optional bytes image = 12;
+
+
+}
+
+message Node
+{
+	optional string host = 1;
+	optional int32 port = 2;
+}
+
+message Entry
+{
+	optional int32 term = 1;
+	optional string command = 2;
+	optional int32 sender= 3;
+	optional int32 receiver = 4;
+		
+}
+
+message Result
+{
+	optional int32 term = 1;
+	optional int32 success = 2;
+}

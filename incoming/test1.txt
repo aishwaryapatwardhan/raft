@@ -1,0 +1,1951 @@
+Server started
+Listening on port 8080
+In Follwer.. starting to work
+
+election timeout: 1 secs
+becoming candidate
+Candidate Started working for the term: 1
+election timeout: 5 secs
+sent request vote for term: 1
+
+Starting Election
+Candidate Started working for the term: 2
+election timeout: 4 secs
+sent request vote for term: 2
+
+Received a vote reqest from 169.254.108.94:8082for the term: 1
+Vote sent for term:  1 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 3
+election timeout: 3 secs
+sent request vote for term: 3
+
+Received a vote reqest from 169.254.108.94:8082for the term: 2
+Vote sent for term:  2 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 4
+election timeout: 3 secs
+sent request vote for term: 4
+
+Starting Election
+Candidate Started working for the term: 5
+election timeout: 5 secs
+sent request vote for term: 5
+
+Received a vote reqest from 169.254.108.94:8082for the term: 3
+Vote sent for term:  3 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 4
+Vote sent for term:  4 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 6
+election timeout: 5 secs
+sent request vote for term: 6
+
+Received a vote reqest from 169.254.108.94:8082for the term: 5
+Vote sent for term:  5 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 7
+election timeout: 5 secs
+sent request vote for term: 7
+
+Received a vote reqest from 169.254.108.94:8082for the term: 6
+Vote sent for term:  6 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 8
+election timeout: 4 secs
+sent request vote for term: 8
+
+Received a vote reqest from 169.254.108.94:8082for the term: 7
+Vote sent for term:  7 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 1
+Vote sent for term:  1 to 169.254.208.99:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 8
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  8 to 169.254.108.94:  1
+
+becoming candidate
+Candidate Started working for the term: 9
+election timeout: 4 secs
+sent request vote for term: 9
+
+Received a vote reqest from 169.254.208.99:8081for the term: 9
+In Follwer.. starting to work
+
+election timeout: 4 secs
+
+Vote sent for term:  9 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 9
+Vote sent for term:  9 to 169.254.108.94:8082 0
+Received a vote reqest from 169.254.208.99for the term: 10
+election timeout: 1 secs
+follower resetting....
+Vote sent for term:  10 to 169.254.208.99:8081 1
+becoming candidate
+Candidate Started working for the term: 11
+election timeout: 3 secs
+sent request vote for term: 11
+
+Received a vote reqest from 169.254.108.94:8082for the term: 10
+Vote sent for term:  10 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 11
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  11 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 12
+election timeout: 4 secs
+sent request vote for term: 12
+
+Received a vote reqest from 169.254.108.94:8082for the term: 11
+Vote sent for term:  11 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 12
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  12 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 13
+election timeout: 4 secs
+sent request vote for term: 13
+
+Received a vote reqest from 169.254.208.99:8081for the term: 13
+In Follwer.. starting to work
+
+election timeout: 4 secs
+
+Vote sent for term:  13 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 12
+Vote sent for term:  12 to 169.254.108.94:8082 0
+Received a vote reqest from 169.254.208.99for the term: 14
+election timeout: 4 secs
+follower resetting....
+Vote sent for term:  14 to 169.254.208.99:8081 1
+Received a vote reqest from 169.254.108.94for the term: 13
+Vote sent for term:  13 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 15
+election timeout: 4 secs
+sent request vote for term: 15
+
+Received a vote reqest from 169.254.108.94:8082for the term: 14
+Vote sent for term:  14 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 15
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  15 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 16
+election timeout: 5 secs
+sent request vote for term: 16
+
+Received a vote reqest from 169.254.208.99:8081for the term: 16
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  16 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 15
+Vote sent for term:  15 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 17
+election timeout: 5 secs
+sent request vote for term: 17
+
+Received a vote reqest from 169.254.208.99:8081for the term: 17
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  17 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 16
+Vote sent for term:  16 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 18
+election timeout: 4 secs
+sent request vote for term: 18
+
+Received a vote reqest from 169.254.208.99:8081for the term: 18
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  18 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 17
+Vote sent for term:  17 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 19
+election timeout: 3 secs
+sent request vote for term: 19
+
+Received a vote reqest from 169.254.108.94:8082for the term: 18
+Vote sent for term:  18 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 19
+In Follwer.. starting to work
+
+election timeout: 4 secs
+
+Vote sent for term:  19 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.208.99for the term: 20
+election timeout: 3 secs
+follower resetting....
+Vote sent for term:  20 to 169.254.208.99:8081 1
+Received a vote reqest from 169.254.108.94for the term: 19
+Vote sent for term:  19 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 21
+election timeout: 5 secs
+sent request vote for term: 21
+
+Received a vote reqest from 169.254.208.99:8081for the term: 21
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  21 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 20
+Vote sent for term:  20 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 22
+election timeout: 3 secs
+sent request vote for term: 22
+
+Starting Election
+Candidate Started working for the term: 23
+election timeout: 3 secs
+sent request vote for term: 23
+
+Received a vote reqest from 169.254.108.94:8082for the term: 21
+Vote sent for term:  21 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 22
+Vote sent for term:  22 to 169.254.208.99:  0
+
+Starting Election
+Candidate Started working for the term: 24
+election timeout: 5 secs
+sent request vote for term: 24
+
+Received a vote reqest from 169.254.208.99:8081for the term: 23
+Vote sent for term:  23 to 169.254.208.99:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 22
+Vote sent for term:  22 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 24
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  24 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 23
+Vote sent for term:  23 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 25
+election timeout: 4 secs
+sent request vote for term: 25
+
+Received a vote reqest from 169.254.208.99:8081for the term: 25
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  25 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 24
+Vote sent for term:  24 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 26
+election timeout: 3 secs
+sent request vote for term: 26
+
+Received a vote reqest from 169.254.208.99:8081for the term: 26
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  26 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 27
+election timeout: 4 secs
+sent request vote for term: 27
+
+Received a vote reqest from 169.254.108.94:8082for the term: 25
+Vote sent for term:  25 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 27
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  27 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 28
+election timeout: 5 secs
+sent request vote for term: 28
+
+Received a vote reqest from 169.254.108.94:8082for the term: 26
+Vote sent for term:  26 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 28
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  28 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 29
+election timeout: 5 secs
+sent request vote for term: 29
+
+Received a vote reqest from 169.254.108.94:8082for the term: 27
+Vote sent for term:  27 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 29
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  29 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 30
+election timeout: 3 secs
+sent request vote for term: 30
+
+Received a vote reqest from 169.254.108.94:8082for the term: 28
+Vote sent for term:  28 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 30
+In Follwer.. starting to work
+
+election timeout: 4 secs
+
+Vote sent for term:  30 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.208.99for the term: 31
+election timeout: 3 secs
+follower resetting....
+Vote sent for term:  31 to 169.254.208.99:8081 1
+Received a vote reqest from 169.254.108.94for the term: 29
+Vote sent for term:  29 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 32
+election timeout: 3 secs
+sent request vote for term: 32
+
+Received a vote reqest from 169.254.208.99:8081for the term: 32
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  32 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 30
+Vote sent for term:  30 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 33
+election timeout: 3 secs
+sent request vote for term: 33
+
+Received a vote reqest from 169.254.208.99:8081for the term: 33
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  33 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 31
+Vote sent for term:  31 to 169.254.108.94:8082 0
+Received a vote reqest from 169.254.208.99for the term: 34
+election timeout: 4 secs
+follower resetting....
+Vote sent for term:  34 to 169.254.208.99:8081 1
+Received a vote reqest from 169.254.108.94for the term: 32
+Vote sent for term:  32 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 35
+election timeout: 5 secs
+sent request vote for term: 35
+
+Received a vote reqest from 169.254.208.99:8081for the term: 35
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  35 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 36
+election timeout: 5 secs
+sent request vote for term: 36
+
+Received a vote reqest from 169.254.108.94:8082for the term: 33
+Vote sent for term:  33 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 36
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  36 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 37
+election timeout: 4 secs
+sent request vote for term: 37
+
+Received a vote reqest from 169.254.108.94:8082for the term: 34
+Vote sent for term:  34 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 37
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  37 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 38
+election timeout: 5 secs
+sent request vote for term: 38
+
+Received a vote reqest from 169.254.108.94:8082for the term: 35
+Vote sent for term:  35 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 38
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  38 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 39
+election timeout: 5 secs
+sent request vote for term: 39
+
+Received a vote reqest from 169.254.108.94:8082for the term: 36
+Vote sent for term:  36 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 39
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  39 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 40
+election timeout: 3 secs
+sent request vote for term: 40
+
+Received a vote reqest from 169.254.208.99:8081for the term: 40
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  40 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 37
+Vote sent for term:  37 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 41
+election timeout: 3 secs
+sent request vote for term: 41
+
+Received a vote reqest from 169.254.208.99:8081for the term: 41
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  41 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 38
+Vote sent for term:  38 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 42
+election timeout: 4 secs
+sent request vote for term: 42
+
+Received a vote reqest from 169.254.208.99:8081for the term: 42
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  42 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 39
+Vote sent for term:  39 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 43
+election timeout: 5 secs
+sent request vote for term: 43
+
+Received a vote reqest from 169.254.208.99:8081for the term: 43
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  43 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 40
+Vote sent for term:  40 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 44
+election timeout: 5 secs
+sent request vote for term: 44
+
+Received a vote reqest from 169.254.208.99:8081for the term: 44
+In Follwer.. starting to work
+
+election timeout: 4 secs
+
+Vote sent for term:  44 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 41
+Vote sent for term:  41 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 45
+election timeout: 3 secs
+sent request vote for term: 45
+
+Received a vote reqest from 169.254.208.99:8081for the term: 45
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  45 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 46
+election timeout: 4 secs
+sent request vote for term: 46
+
+Received a vote reqest from 169.254.108.94:8082for the term: 42
+Vote sent for term:  42 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 46
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  46 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 47
+election timeout: 5 secs
+sent request vote for term: 47
+
+Received a vote reqest from 169.254.108.94:8082for the term: 43
+Vote sent for term:  43 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 47
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  47 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 48
+election timeout: 5 secs
+sent request vote for term: 48
+
+Received a vote reqest from 169.254.108.94:8082for the term: 44
+Vote sent for term:  44 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 48
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  48 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 49
+election timeout: 5 secs
+sent request vote for term: 49
+
+Received a vote reqest from 169.254.108.94:8082for the term: 45
+Vote sent for term:  45 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 49
+In Follwer.. starting to work
+
+election timeout: 4 secs
+
+Vote sent for term:  49 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 46
+Vote sent for term:  46 to 169.254.108.94:8082 0
+Received a vote reqest from 169.254.208.99for the term: 50
+election timeout: 3 secs
+follower resetting....
+Vote sent for term:  50 to 169.254.208.99:8081 1
+Received a vote reqest from 169.254.108.94for the term: 47
+Vote sent for term:  47 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 51
+election timeout: 5 secs
+sent request vote for term: 51
+
+Received a vote reqest from 169.254.208.99:8081for the term: 51
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  51 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 48
+Vote sent for term:  48 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 52
+election timeout: 3 secs
+sent request vote for term: 52
+
+Received a vote reqest from 169.254.208.99:8081for the term: 52
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  52 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 49
+Vote sent for term:  49 to 169.254.108.94:8082 0
+Received a vote reqest from 169.254.208.99for the term: 53
+election timeout: 1 secs
+follower resetting....
+Vote sent for term:  53 to 169.254.208.99:8081 1
+becoming candidate
+Candidate Started working for the term: 54
+election timeout: 5 secs
+sent request vote for term: 54
+
+Received a vote reqest from 169.254.108.94:8082for the term: 50
+Vote sent for term:  50 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 54
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  54 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 55
+election timeout: 4 secs
+sent request vote for term: 55
+
+Received a vote reqest from 169.254.208.99:8081for the term: 55
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  55 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 51
+Vote sent for term:  51 to 169.254.108.94:8082 0
+Received a vote reqest from 169.254.208.99for the term: 56
+election timeout: 1 secs
+follower resetting....
+Vote sent for term:  56 to 169.254.208.99:8081 1
+becoming candidate
+Candidate Started working for the term: 57
+election timeout: 3 secs
+sent request vote for term: 57
+
+Received a vote reqest from 169.254.108.94:8082for the term: 52
+Vote sent for term:  52 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 58
+election timeout: 4 secs
+sent request vote for term: 58
+
+Received a vote reqest from 169.254.208.99:8081for the term: 57
+Vote sent for term:  57 to 169.254.208.99:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 53
+Vote sent for term:  53 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 58
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  58 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 59
+election timeout: 5 secs
+sent request vote for term: 59
+
+Received a vote reqest from 169.254.208.99:8081for the term: 59
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  59 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 54
+Vote sent for term:  54 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 60
+election timeout: 5 secs
+sent request vote for term: 60
+
+Received a vote reqest from 169.254.108.94:8082for the term: 55
+Vote sent for term:  55 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 60
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  60 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 56
+Vote sent for term:  56 to 169.254.108.94:8082 0
+Received a vote reqest from 169.254.208.99for the term: 61
+election timeout: 2 secs
+follower resetting....
+Vote sent for term:  61 to 169.254.208.99:8081 1
+becoming candidate
+Candidate Started working for the term: 62
+election timeout: 5 secs
+sent request vote for term: 62
+
+Received a vote reqest from 169.254.208.99:8081for the term: 62
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  62 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 57
+Vote sent for term:  57 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 63
+election timeout: 5 secs
+sent request vote for term: 63
+
+Received a vote reqest from 169.254.108.94:8082for the term: 58
+Vote sent for term:  58 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 63
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  63 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 59
+Vote sent for term:  59 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 64
+election timeout: 3 secs
+sent request vote for term: 64
+
+Received a vote reqest from 169.254.208.99:8081for the term: 64
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  64 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 60
+Vote sent for term:  60 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 65
+election timeout: 5 secs
+sent request vote for term: 65
+
+Received a vote reqest from 169.254.108.94:8082for the term: 61
+Vote sent for term:  61 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 65
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  65 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 66
+election timeout: 4 secs
+sent request vote for term: 66
+
+Received a vote reqest from 169.254.208.99:8081for the term: 66
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  66 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 62
+Vote sent for term:  62 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 67
+election timeout: 4 secs
+sent request vote for term: 67
+
+Received a vote reqest from 169.254.208.99:8081for the term: 67
+In Follwer.. starting to work
+
+election timeout: 4 secs
+
+Vote sent for term:  67 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 63
+Vote sent for term:  63 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 68
+election timeout: 5 secs
+sent request vote for term: 68
+
+Received a vote reqest from 169.254.108.94:8082for the term: 64
+Vote sent for term:  64 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 68
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  68 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 69
+election timeout: 4 secs
+sent request vote for term: 69
+
+Received a vote reqest from 169.254.108.94:8082for the term: 65
+Vote sent for term:  65 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 69
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  69 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 70
+election timeout: 3 secs
+sent request vote for term: 70
+
+Received a vote reqest from 169.254.108.94:8082for the term: 66
+Vote sent for term:  66 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 70
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  70 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 67
+Vote sent for term:  67 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 71
+election timeout: 3 secs
+sent request vote for term: 71
+
+Received a vote reqest from 169.254.208.99:8081for the term: 71
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  71 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 68
+Vote sent for term:  68 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 72
+election timeout: 3 secs
+sent request vote for term: 72
+
+Received a vote reqest from 169.254.108.94:8082for the term: 69
+Vote sent for term:  69 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 73
+election timeout: 5 secs
+sent request vote for term: 73
+
+Received a vote reqest from 169.254.208.99:8081for the term: 72
+Vote sent for term:  72 to 169.254.208.99:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 70
+Vote sent for term:  70 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 73
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  73 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 71
+Vote sent for term:  71 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 74
+election timeout: 3 secs
+sent request vote for term: 74
+
+Received a vote reqest from 169.254.208.99:8081for the term: 74
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  74 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 72
+Vote sent for term:  72 to 169.254.108.94:8082 0
+Received a vote reqest from 169.254.208.99for the term: 75
+election timeout: 2 secs
+follower resetting....
+Vote sent for term:  75 to 169.254.208.99:8081 1
+Received a vote reqest from 169.254.108.94for the term: 73
+Vote sent for term:  73 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 76
+election timeout: 5 secs
+sent request vote for term: 76
+
+Received a vote reqest from 169.254.208.99:8081for the term: 76
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  76 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 74
+Vote sent for term:  74 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 77
+election timeout: 5 secs
+sent request vote for term: 77
+
+Received a vote reqest from 169.254.208.99:8081for the term: 77
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  77 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 78
+election timeout: 4 secs
+sent request vote for term: 78
+
+Received a vote reqest from 169.254.108.94:8082for the term: 75
+Vote sent for term:  75 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 78
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  78 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 79
+election timeout: 4 secs
+sent request vote for term: 79
+
+Received a vote reqest from 169.254.108.94:8082for the term: 76
+Vote sent for term:  76 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 79
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  79 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 80
+election timeout: 4 secs
+sent request vote for term: 80
+
+Received a vote reqest from 169.254.108.94:8082for the term: 77
+Vote sent for term:  77 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 80
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  80 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 81
+election timeout: 5 secs
+sent request vote for term: 81
+
+Received a vote reqest from 169.254.108.94:8082for the term: 78
+Vote sent for term:  78 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 81
+In Follwer.. starting to work
+
+election timeout: 4 secs
+
+Vote sent for term:  81 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.208.99for the term: 82
+election timeout: 2 secs
+follower resetting....
+Vote sent for term:  82 to 169.254.208.99:8081 1
+Received a vote reqest from 169.254.108.94for the term: 79
+Vote sent for term:  79 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 83
+election timeout: 4 secs
+sent request vote for term: 83
+
+Received a vote reqest from 169.254.208.99:8081for the term: 83
+In Follwer.. starting to work
+
+election timeout: 3 secs
+
+Vote sent for term:  83 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 80
+Vote sent for term:  80 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 84
+election timeout: 3 secs
+sent request vote for term: 84
+
+Received a vote reqest from 169.254.208.99:8081for the term: 84
+In Follwer.. starting to work
+
+election timeout: 2 secs
+
+Vote sent for term:  84 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 81
+Vote sent for term:  81 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 85
+election timeout: 5 secs
+sent request vote for term: 85
+
+Received a vote reqest from 169.254.208.99:8081for the term: 85
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  85 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 86
+election timeout: 5 secs
+sent request vote for term: 86
+
+Received a vote reqest from 169.254.108.94:8082for the term: 82
+Vote sent for term:  82 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 86
+In Follwer.. starting to work
+
+election timeout: 4 secs
+
+Vote sent for term:  86 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 83
+Vote sent for term:  83 to 169.254.108.94:8082 0
+becoming candidate
+Candidate Started working for the term: 87
+election timeout: 4 secs
+sent request vote for term: 87
+
+Received a vote reqest from 169.254.108.94:8082for the term: 84
+Vote sent for term:  84 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 87
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  87 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 88
+election timeout: 3 secs
+sent request vote for term: 88
+
+Received a vote reqest from 169.254.108.94:8082for the term: 85
+Vote sent for term:  85 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 88
+In Follwer.. starting to work
+
+election timeout: 1 secs
+
+Vote sent for term:  88 to 169.254.208.99:  1
+
+becoming candidate
+Candidate Started working for the term: 89
+election timeout: 4 secs
+sent request vote for term: 89
+
+Received a vote reqest from 169.254.208.99:8081for the term: 89
+In Follwer.. starting to work
+
+election timeout: 4 secs
+
+Vote sent for term:  89 to 169.254.208.99:  1
+
+Received a vote reqest from 169.254.108.94for the term: 86
+Vote sent for term:  86 to 169.254.108.94:8082 0
+Received a vote reqest from 169.254.208.99for the term: 90
+election timeout: 1 secs
+follower resetting....
+Vote sent for term:  90 to 169.254.208.99:8081 1
+becoming candidate
+Candidate Started working for the term: 91
+election timeout: 4 secs
+sent request vote for term: 91
+
+Starting Election
+Candidate Started working for the term: 92
+election timeout: 3 secs
+sent request vote for term: 92
+
+Starting Election
+Candidate Started working for the term: 93
+election timeout: 3 secs
+sent request vote for term: 93
+
+Starting Election
+Candidate Started working for the term: 94
+election timeout: 4 secs
+sent request vote for term: 94
+
+Received a vote reqest from 169.254.208.99:8081for the term: 91
+Vote sent for term:  91 to 169.254.208.99:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 92
+Vote sent for term:  92 to 169.254.208.99:  0
+
+Received a vote reqest from 169.254.208.99:8081for the term: 93
+Vote sent for term:  93 to 169.254.208.99:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 87
+Vote sent for term:  87 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 88
+Vote sent for term:  88 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 89
+Vote sent for term:  89 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 90
+Vote sent for term:  90 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 95
+election timeout: 4 secs
+sent request vote for term: 95
+
+Received a vote reqest from 169.254.208.99:8081for the term: 94
+Vote sent for term:  94 to 169.254.208.99:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 91
+Vote sent for term:  91 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 96
+election timeout: 3 secs
+sent request vote for term: 96
+
+Received a vote reqest from 169.254.208.99:8081for the term: 95
+Vote sent for term:  95 to 169.254.208.99:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 92
+Vote sent for term:  92 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 97
+election timeout: 3 secs
+sent request vote for term: 97
+
+Starting Election
+Candidate Started working for the term: 98
+election timeout: 4 secs
+sent request vote for term: 98
+
+Received a vote reqest from 169.254.108.94:8082for the term: 93
+Vote sent for term:  93 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 99
+election timeout: 3 secs
+sent request vote for term: 99
+
+Received a vote reqest from 169.254.108.94:8082for the term: 94
+Vote sent for term:  94 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 100
+election timeout: 5 secs
+sent request vote for term: 100
+
+Received a vote reqest from 169.254.108.94:8082for the term: 95
+Vote sent for term:  95 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 101
+election timeout: 3 secs
+sent request vote for term: 101
+
+Received a vote reqest from 169.254.108.94:8082for the term: 96
+Vote sent for term:  96 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 102
+election timeout: 5 secs
+sent request vote for term: 102
+
+Received a vote reqest from 169.254.108.94:8082for the term: 97
+Vote sent for term:  97 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 103
+election timeout: 3 secs
+sent request vote for term: 103
+
+Received a vote reqest from 169.254.108.94:8082for the term: 98
+Vote sent for term:  98 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 104
+election timeout: 3 secs
+sent request vote for term: 104
+
+Received a vote reqest from 169.254.108.94:8082for the term: 99
+Vote sent for term:  99 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 105
+election timeout: 3 secs
+sent request vote for term: 105
+
+Received a vote reqest from 169.254.108.94:8082for the term: 100
+Vote sent for term:  100 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 106
+election timeout: 4 secs
+sent request vote for term: 106
+
+Received a vote reqest from 169.254.108.94:8082for the term: 101
+Vote sent for term:  101 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 107
+election timeout: 4 secs
+sent request vote for term: 107
+
+Starting Election
+Candidate Started working for the term: 108
+election timeout: 4 secs
+sent request vote for term: 108
+
+Received a vote reqest from 169.254.108.94:8082for the term: 102
+Vote sent for term:  102 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 109
+election timeout: 3 secs
+sent request vote for term: 109
+
+Received a vote reqest from 169.254.108.94:8082for the term: 103
+Vote sent for term:  103 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 110
+election timeout: 5 secs
+sent request vote for term: 110
+
+Received a vote reqest from 169.254.108.94:8082for the term: 104
+Vote sent for term:  104 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 111
+election timeout: 3 secs
+sent request vote for term: 111
+
+Received a vote reqest from 169.254.108.94:8082for the term: 105
+Vote sent for term:  105 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 112
+election timeout: 3 secs
+sent request vote for term: 112
+
+Received a vote reqest from 169.254.108.94:8082for the term: 106
+Vote sent for term:  106 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 113
+election timeout: 3 secs
+sent request vote for term: 113
+
+Starting Election
+Candidate Started working for the term: 114
+election timeout: 5 secs
+sent request vote for term: 114
+
+Received a vote reqest from 169.254.108.94:8082for the term: 107
+Vote sent for term:  107 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 115
+election timeout: 4 secs
+sent request vote for term: 115
+
+Received a vote reqest from 169.254.108.94:8082for the term: 108
+Vote sent for term:  108 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 116
+election timeout: 5 secs
+sent request vote for term: 116
+
+Received a vote reqest from 169.254.108.94:8082for the term: 109
+Vote sent for term:  109 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 110
+Vote sent for term:  110 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 117
+election timeout: 5 secs
+sent request vote for term: 117
+
+Received a vote reqest from 169.254.108.94:8082for the term: 111
+Vote sent for term:  111 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 118
+election timeout: 3 secs
+sent request vote for term: 118
+
+Starting Election
+Candidate Started working for the term: 119
+election timeout: 3 secs
+sent request vote for term: 119
+
+Starting Election
+Candidate Started working for the term: 120
+election timeout: 4 secs
+sent request vote for term: 120
+
+Starting Election
+Candidate Started working for the term: 121
+election timeout: 3 secs
+sent request vote for term: 121
+
+Starting Election
+Candidate Started working for the term: 122
+election timeout: 5 secs
+sent request vote for term: 122
+
+Starting Election
+Candidate Started working for the term: 123
+election timeout: 4 secs
+sent request vote for term: 123
+
+Starting Election
+Candidate Started working for the term: 124
+election timeout: 3 secs
+sent request vote for term: 124
+
+Starting Election
+Candidate Started working for the term: 125
+election timeout: 5 secs
+sent request vote for term: 125
+
+Starting Election
+Candidate Started working for the term: 126
+election timeout: 3 secs
+sent request vote for term: 126
+
+Starting Election
+Candidate Started working for the term: 127
+election timeout: 5 secs
+sent request vote for term: 127
+
+Starting Election
+Candidate Started working for the term: 128
+election timeout: 4 secs
+sent request vote for term: 128
+
+Starting Election
+Candidate Started working for the term: 129
+election timeout: 4 secs
+sent request vote for term: 129
+
+Received a vote reqest from 169.254.108.94:8082for the term: 123
+Vote sent for term:  123 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 130
+election timeout: 3 secs
+sent request vote for term: 130
+
+Starting Election
+Candidate Started working for the term: 131
+election timeout: 4 secs
+sent request vote for term: 131
+
+Received a vote reqest from 169.254.108.94:8082for the term: 124
+Vote sent for term:  124 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 132
+election timeout: 5 secs
+sent request vote for term: 132
+
+Received a vote reqest from 169.254.108.94:8082for the term: 125
+Vote sent for term:  125 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 133
+election timeout: 4 secs
+sent request vote for term: 133
+
+Received a vote reqest from 169.254.108.94:8082for the term: 126
+Vote sent for term:  126 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 127
+Vote sent for term:  127 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 134
+election timeout: 5 secs
+sent request vote for term: 134
+
+Received a vote reqest from 169.254.108.94:8082for the term: 128
+Vote sent for term:  128 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 135
+election timeout: 3 secs
+sent request vote for term: 135
+
+Received a vote reqest from 169.254.108.94:8082for the term: 129
+Vote sent for term:  129 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 136
+election timeout: 3 secs
+sent request vote for term: 136
+
+Received a vote reqest from 169.254.108.94:8082for the term: 130
+Vote sent for term:  130 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 1
+Vote sent for term:  1 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 137
+election timeout: 4 secs
+sent request vote for term: 137
+
+Received a vote reqest from 169.254.107.69:8081for the term: 2
+Vote sent for term:  2 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 131
+Vote sent for term:  131 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 138
+election timeout: 5 secs
+sent request vote for term: 138
+
+Received a vote reqest from 169.254.108.94:8082for the term: 132
+Vote sent for term:  132 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 3
+Vote sent for term:  3 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 139
+election timeout: 4 secs
+sent request vote for term: 139
+
+Received a vote reqest from 169.254.107.69:8081for the term: 4
+Vote sent for term:  4 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 133
+Vote sent for term:  133 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 140
+election timeout: 4 secs
+sent request vote for term: 140
+
+Received a vote reqest from 169.254.107.69:8081for the term: 5
+Vote sent for term:  5 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 134
+Vote sent for term:  134 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 141
+election timeout: 4 secs
+sent request vote for term: 141
+
+Received a vote reqest from 169.254.108.94:8082for the term: 135
+Vote sent for term:  135 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 6
+Vote sent for term:  6 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 142
+election timeout: 3 secs
+sent request vote for term: 142
+
+Received a vote reqest from 169.254.108.94:8082for the term: 136
+Vote sent for term:  136 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 143
+election timeout: 3 secs
+sent request vote for term: 143
+
+Received a vote reqest from 169.254.107.69:8081for the term: 7
+Vote sent for term:  7 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 137
+Vote sent for term:  137 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 144
+election timeout: 3 secs
+sent request vote for term: 144
+
+Received a vote reqest from 169.254.107.69:8081for the term: 8
+Vote sent for term:  8 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 145
+election timeout: 3 secs
+sent request vote for term: 145
+
+Received a vote reqest from 169.254.108.94:8082for the term: 138
+Vote sent for term:  138 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 9
+Vote sent for term:  9 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 146
+election timeout: 4 secs
+sent request vote for term: 146
+
+Received a vote reqest from 169.254.108.94:8082for the term: 139
+Vote sent for term:  139 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 10
+Vote sent for term:  10 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 147
+election timeout: 5 secs
+sent request vote for term: 147
+
+Received a vote reqest from 169.254.108.94:8082for the term: 140
+Vote sent for term:  140 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 11
+Vote sent for term:  11 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 141
+Vote sent for term:  141 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 148
+election timeout: 3 secs
+sent request vote for term: 148
+
+Received a vote reqest from 169.254.107.69:8081for the term: 12
+Vote sent for term:  12 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 149
+election timeout: 3 secs
+sent request vote for term: 149
+
+Received a vote reqest from 169.254.108.94:8082for the term: 142
+Vote sent for term:  142 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 13
+Vote sent for term:  13 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 150
+election timeout: 3 secs
+sent request vote for term: 150
+
+Received a vote reqest from 169.254.108.94:8082for the term: 143
+Vote sent for term:  143 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 14
+Vote sent for term:  14 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 151
+election timeout: 5 secs
+sent request vote for term: 151
+
+Received a vote reqest from 169.254.108.94:8082for the term: 144
+Vote sent for term:  144 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 15
+Vote sent for term:  15 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 152
+election timeout: 4 secs
+sent request vote for term: 152
+
+Received a vote reqest from 169.254.108.94:8082for the term: 145
+Vote sent for term:  145 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 16
+Vote sent for term:  16 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 153
+election timeout: 5 secs
+sent request vote for term: 153
+
+Received a vote reqest from 169.254.108.94:8082for the term: 146
+Vote sent for term:  146 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 154
+election timeout: 3 secs
+sent request vote for term: 154
+
+Starting Election
+Candidate Started working for the term: 155
+election timeout: 3 secs
+sent request vote for term: 155
+
+Starting Election
+Candidate Started working for the term: 156
+election timeout: 3 secs
+sent request vote for term: 156
+
+Starting Election
+Candidate Started working for the term: 157
+election timeout: 4 secs
+sent request vote for term: 157
+
+Starting Election
+Candidate Started working for the term: 158
+election timeout: 4 secs
+sent request vote for term: 158
+
+Starting Election
+Candidate Started working for the term: 159
+election timeout: 4 secs
+sent request vote for term: 159
+
+Starting Election
+Candidate Started working for the term: 160
+election timeout: 5 secs
+sent request vote for term: 160
+
+Received a vote reqest from 169.254.108.94:8082for the term: 152
+Vote sent for term:  152 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 161
+election timeout: 5 secs
+sent request vote for term: 161
+
+Received a vote reqest from 169.254.108.94:8082for the term: 153
+Vote sent for term:  153 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 154
+Vote sent for term:  154 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 17
+Vote sent for term:  17 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 18
+Vote sent for term:  18 to 169.254.107.69:  0
+Received a vote reqest from 169.254.107.69:8081for the term: 26
+Vote sent for term:  26 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 25
+Vote sent for term:  25 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 24
+Vote sent for term:  24 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 23
+Vote sent for term:  23 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 22
+Vote sent for term:  22 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 21
+Vote sent for term:  21 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 20
+Vote sent for term:  20 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 19
+Vote sent for term:  19 to 169.254.107.69:  0
+
+
+Starting Election
+Candidate Started working for the term: 162
+election timeout: 4 secs
+sent request vote for term: 162
+
+Received a vote reqest from 169.254.108.94:8082for the term: 155
+Vote sent for term:  155 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 27
+Vote sent for term:  27 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 163
+election timeout: 3 secs
+sent request vote for term: 163
+
+Starting Election
+Candidate Started working for the term: 164
+election timeout: 5 secs
+sent request vote for term: 164
+
+Received a vote reqest from 169.254.108.94:8082for the term: 156
+Vote sent for term:  156 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 28
+Vote sent for term:  28 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 157
+Vote sent for term:  157 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 165
+election timeout: 4 secs
+sent request vote for term: 165
+
+Received a vote reqest from 169.254.107.69:8081for the term: 29
+Vote sent for term:  29 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 158
+Vote sent for term:  158 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 166
+election timeout: 5 secs
+sent request vote for term: 166
+
+Received a vote reqest from 169.254.107.69:8081for the term: 30
+Vote sent for term:  30 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 159
+Vote sent for term:  159 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 167
+election timeout: 4 secs
+sent request vote for term: 167
+
+Received a vote reqest from 169.254.107.69:8081for the term: 31
+Vote sent for term:  31 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 160
+Vote sent for term:  160 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 168
+election timeout: 5 secs
+sent request vote for term: 168
+
+Received a vote reqest from 169.254.108.94:8082for the term: 161
+Vote sent for term:  161 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 32
+Vote sent for term:  32 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 169
+election timeout: 5 secs
+sent request vote for term: 169
+
+Received a vote reqest from 169.254.108.94:8082for the term: 162
+Vote sent for term:  162 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 33
+Vote sent for term:  33 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 34
+Vote sent for term:  34 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 170
+election timeout: 5 secs
+sent request vote for term: 170
+
+Received a vote reqest from 169.254.108.94:8082for the term: 163
+Vote sent for term:  163 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 35
+Vote sent for term:  35 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 171
+election timeout: 5 secs
+sent request vote for term: 171
+
+Received a vote reqest from 169.254.108.94:8082for the term: 164
+Vote sent for term:  164 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 36
+Vote sent for term:  36 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 165
+Vote sent for term:  165 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 37
+Vote sent for term:  37 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 172
+election timeout: 4 secs
+sent request vote for term: 172
+
+Received a vote reqest from 169.254.108.94:8082for the term: 166
+Vote sent for term:  166 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 38
+Vote sent for term:  38 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 173
+election timeout: 3 secs
+sent request vote for term: 173
+
+Received a vote reqest from 169.254.107.69:8081for the term: 39
+Vote sent for term:  39 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 174
+election timeout: 4 secs
+sent request vote for term: 174
+
+Received a vote reqest from 169.254.108.94:8082for the term: 167
+Vote sent for term:  167 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 40
+Vote sent for term:  40 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 175
+election timeout: 4 secs
+sent request vote for term: 175
+
+Received a vote reqest from 169.254.108.94:8082for the term: 168
+Vote sent for term:  168 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 41
+Vote sent for term:  41 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 176
+election timeout: 4 secs
+sent request vote for term: 176
+
+Received a vote reqest from 169.254.108.94:8082for the term: 169
+Vote sent for term:  169 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 177
+election timeout: 5 secs
+sent request vote for term: 177
+
+Received a vote reqest from 169.254.107.69:8081for the term: 42
+Vote sent for term:  42 to 169.254.107.69:  0
+
+Received a vote reqest from 169.254.108.94:8082for the term: 170
+Vote sent for term:  170 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 43
+Vote sent for term:  43 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 178
+election timeout: 4 secs
+sent request vote for term: 178
+
+Received a vote reqest from 169.254.108.94:8082for the term: 171
+Vote sent for term:  171 to 169.254.108.94:  0
+
+Received a vote reqest from 169.254.107.69:8081for the term: 44
+Vote sent for term:  44 to 169.254.107.69:  0
+
+Starting Election
+Candidate Started working for the term: 179
+election timeout: 3 secs
+sent request vote for term: 179
+
+Received a vote reqest from 169.254.108.94:8082for the term: 172
+Vote sent for term:  172 to 169.254.108.94:  0
+
+Starting Election
+Candidate Started working for the term: 180
+election timeout: 3 secs
+sent request vote for term: 180
+
+Received a vote reqest from 169.254.108.94:8082for the term: 173
+Vote sent for term:  173 to 169.254.108.94:  0
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

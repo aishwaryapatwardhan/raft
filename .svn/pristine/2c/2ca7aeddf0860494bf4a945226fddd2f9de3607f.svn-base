@@ -1,0 +1,26 @@
+{
+	"node":
+	{
+		"host":"localhost",
+		"port":8080
+	},
+	"nodes":
+	[
+		{
+			
+			"host":"localhost",
+			"port":8082
+		},
+		{
+			
+			"host":"localhost",
+			"port":8084
+		},
+		{
+			
+			"host":"192.168.0.15",
+			"port":8080
+		}
+	]
+		
+}
